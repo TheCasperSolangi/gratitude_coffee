@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "603861277728",
+    "project_id": "gratitude-ffc95",
+    "storage_bucket": "gratitude-ffc95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603861277728:android:0a76f8bd4a377d9f887045",
+        "android_client_info": {
+          "package_name": "com.example.garttitude_coffee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoZE9pxo20GtBu5Ib1ngqfOyGVi4PxFmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
